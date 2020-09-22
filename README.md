@@ -1,0 +1,1 @@
+# translate-a-gene-into-codons-using-OpenMP
